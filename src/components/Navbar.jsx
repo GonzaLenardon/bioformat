@@ -58,7 +58,7 @@ export default function Navbar() {
                 </li>
 
                 <li className="nav-item">
-                  <a className="nav-link fw-semibold" href="/admin">
+                  <a className="nav-link fw-semibold" href="/turnos">
                     Clases
                   </a>
                 </li>

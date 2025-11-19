@@ -16,7 +16,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/horarios" element={<Horarios />} />
-          <Route path="/admin" element={<AdminClases />} />
+          <Route path="/turnos" element={<AdminClases />} />
           <Route path="/clientes" element={<Usuarios />} />
           <Route path="/misclases" element={<MisClases />} />
         </Routes>
